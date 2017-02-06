@@ -1,0 +1,30 @@
+html{
+    height:100%;
+}
+body{
+    height:100%;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+.wrap{
+    width:100%;
+    height:100%;
+    background:#68cdd5;
+}
+.logo{
+    width:100%;
+    height:25%;
+    border:1px solid red;
+}
+.img{
+    width:10%;
+    height:15%;
+    float:left;
+    background:url(../葡萄藤logo.png) no-repeat;
+}
+.logotxt{
+    float:left;
+
+}
